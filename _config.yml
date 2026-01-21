@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Boxiang Ma"
-  pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student in Computer Science and Technology at <a href='https://www.sxu.edu.cn'>Shanxi University</a>"
+  pronouns         : # example: "she/her"
+  bio              : "Ph.D. Student in Computer Science and Technology at Shanxi University"
   location         : "Taiyuan, Shanxi, China"
-  employer         : "School of Computer and Information Technology, Shanxi University"
+  employer         : "<a href='https://www.sxu.edu.cn'>Shanxi University</a>"
   uri              : # URL
   email            : "maboxiang@sxu.edu.cn" 
 
