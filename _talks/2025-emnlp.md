@@ -1,5 +1,5 @@
 ---
-title: "Oral - Memorization ≠ Understanding: Do Large Language Models Have the Ability of Scenario Cognition?"
+title: "Oral - EMNLP 2025"
 collection: Talks
 type: "Conference proceedings talk"
 permalink: /talks/2025-emnlp
@@ -7,3 +7,5 @@ venue: "<a href=https://2025.emnlp.org>Proceedings of the 2025 Conference on Emp
 date: 2025-11-06
 location: "Suzhou, Jiangsu, China"
 ---
+
+Oral for the accepted paper: Memorization ≠ Understanding: Do Large Language Models Have the Ability of Scenario Cognition?
