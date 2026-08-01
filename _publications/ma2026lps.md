@@ -3,7 +3,7 @@ title: "The Dentate Gyrus of Large Language Models: A Parameterized Knowledge Pa
 collection: publications
 category: journal
 permalink: /publication/ma2026lps
-date: 2025-07-20
+date: 2026-07-20
 venue: 'Journal of Computer Research and Development'
 paperurl: 'https://crad.ict.ac.cn/cn/article/pdf/preview/10.7544/issn1000-1239.202660437.pdf'
 citation: 'Ma Boxiang, Li Ru, Guo Shaoru, Li Yinghao, Víctor Gutiérrez-Basulto. The Dentate Gyrus of Large Language Models: A Parameterized Knowledge Pattern Separation Framework for Scenario Cognition Diagnosis and Enhancement[J]. Journal of Computer Research and Development. DOI: 10.7544/issn1000-1239.202660437'
